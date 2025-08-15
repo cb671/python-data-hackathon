@@ -26,42 +26,42 @@
 ### Summary of Results 
 
 1. Question 1 
-  ![Players Goals Per 90 by Team](/Workspace/Users/corymb33@gmail.com/hackathon-data-cory/images/playersper90.PNG)
+  ![Players Goals Per 90 by Team](/Workspace/Repos/corymb33@gmail.com/python-data-hackathon/hackathon-data-cory/images/playersper90.PNG)
   - Grouped 'Goals by 90' by 'Team'
   - Extracted top player from the Team
   - Displayed in Barplot 
   - Can see which players have the highest goals per 90 for each team. Aston villa = Jhon Duran, Manchester United = Rasmus Hojlund, Crystal Palace = Michael Olise.
 2. Question 2
-  ![Best Countries Goals per 90](/Workspace/Users/corymb33@gmail.com/hackathon-data-cory/images/countriesper90.PNG)
+  ![Best Countries Goals per 90](/Workspace/Repos/corymb33@gmail.com/python-data-hackathon/hackathon-data-cory/images/countriesper90.PNG)
   - Grouped 'Goals per 90' by 'Country'
   - Filtered by top 10 countries and must have a minimum of 3 players for valid results 
   - Displayed in a Barplot
   - Can see which countries produce the best scoring rates. Sweden produced the best scoring rates.
 3. Question 3
-  ![Total Goals vs Minutes](/Workspace/Users/corymb33@gmail.com/hackathon-data-cory/images/goalsvsmatches.PNG)
-  - Compared Total Goals vs Minutes 
+  ![Goals vs Matches](/Workspace/Repos/corymb33@gmail.com/python-data-hackathon/hackathon-data-cory/images/goalsvsmatches.PNG)
+  - Compared Total Goals vs Matches
   - Displayed in a scatter plot
   - More matches played generally results in most total goals. 30 - 32.5 matches = most total goals. 
 4. Question 4
-  ![Goals by 90 per Team](/Workspace/Users/corymb33@gmail.com/hackathon-data-cory/images/teamsper90.PNG)
+  ![Goals by 90 per Team](/Workspace/Repos/corymb33@gmail.com/python-data-hackathon/hackathon-data-cory/images/teamsper90.PNG)
   - Grouped 'Goals by 90' by 'Team'
   - Displayed in Barplot
   - Manhester City & Newcastle United = highest scoring rate
 5. Hypothesis 1
-  ![Goals Vs Minutes](/Workspace/Users/corymb33@gmail.com/hackathon-data-cory/images/goalsvsmatches.PNG)
+  ![Total Goals vs Minutes](/Workspace/Repos/corymb33@gmail.com/python-data-hackathon/hackathon-data-cory/images/goalsvsminutes.PNG)
   - Tested
   - True to a certain degree
   - Minutes Played and Total Goals increase gradually until 2500 
   - Drops off after 2500 possibly due to fatigue
 6. Hypothesis 2
-  ![Goals by 90 per Team](/Workspace/Users/corymb33@gmail.com/hackathon-data-cory/images/teamsper90.PNG)
+  ![Goals by 90 per Team](/Workspace/Repos/corymb33@gmail.com/python-data-hackathon/hackathon-data-cory/images/teamsper90.PNG)
   - Tested
   - True
   - Top 8 Teams with the highest Goals per 90 = 7 of them finished in the top 7
   - Outlier = Crystal Palace, who finished 10th but 3rd in goals per 90
 
 ### Summary of Predictions
-  ![Predction](/Workspace/Users/corymb33@gmail.com/hackathon-data-cory/images/prediction.PNG)
+  ![Predction](/Workspace/Repos/corymb33@gmail.com/python-data-hackathon/hackathon-data-cory/images/prediction.PNG)
   - Prediction of Total Goals based on minutes
  - Red dashed line = represents perfect prediction ,where the predicted value exactly matches the actual value,. The closer the points are to this line, the better the model's performance.
  - Purple dots = models predictions
