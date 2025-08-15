@@ -61,7 +61,7 @@
   - Outlier = Crystal Palace, who finished 10th but 3rd in goals per 90
 
 ### Summary of Predictions
-  ![Predction](/Workspace/Repos/corymb33@gmail.com/python-data-hackathon/hackathon-data-cory/images/prediction.PNG)
+  ![Predction](hackathon-data-cory/images/prediction.PNG)
   - Prediction of Total Goals based on minutes
  - Red dashed line = represents perfect prediction ,where the predicted value exactly matches the actual value,. The closer the points are to this line, the better the model's performance.
  - Purple dots = models predictions
